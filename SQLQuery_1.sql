@@ -1,1 +1,1 @@
-select * from AdventureWorks2014;
+select dash_yort 
