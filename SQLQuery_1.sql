@@ -217,3 +217,6 @@ GO
 
 
 ---- i edited this file
+
+
+SELECT * from table_users
